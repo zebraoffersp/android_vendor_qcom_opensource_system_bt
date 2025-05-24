@@ -1,0 +1,4 @@
+📦 Tạo mới repo: android_vendor_qcom_opensource_system_bt
+To github.com:zebraoffersp/android_vendor_qcom_opensource_system_bt.git
+ * [new branch]      lineage-17.1 -> lineage-17.1
+✅ Đã push thành công: android_vendor_qcom_opensource_system_bt
